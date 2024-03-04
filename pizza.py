@@ -3,7 +3,7 @@ class Pizza:
     precio = 10000
     tamano = 'familiar'
     ingredientes_proteicos = ("Pollo", "Vacuno", "Carne vegetal")
-    ingredientes_vegetales = ("Tomate", "Aceitunas", "Champiñones")
+    ingredientes_vegetales = ("Tomate", "Aceitunas", "Champinones")
     tipos_masa= ("Tradicional", "Delgada")
 
     def __init__(self):
